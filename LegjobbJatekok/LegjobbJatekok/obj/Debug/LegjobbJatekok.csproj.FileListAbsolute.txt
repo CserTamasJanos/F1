@@ -1,0 +1,8 @@
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\bin\Debug\LegjobbJatekok.exe.config
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\bin\Debug\LegjobbJatekok.exe
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\bin\Debug\LegjobbJatekok.pdb
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\obj\Debug\LegjobbJatekok.csproj.AssemblyReference.cache
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\obj\Debug\LegjobbJatekok.csproj.SuggestedBindingRedirects.cache
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\obj\Debug\LegjobbJatekok.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\obj\Debug\LegjobbJatekok.exe
+C:\Projects\VisualStudioIskolaProjects\LegjobbJatekok\LegjobbJatekok\obj\Debug\LegjobbJatekok.pdb
